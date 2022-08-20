@@ -11,19 +11,15 @@
 Here are some ideas to get you started:
 -->
 
-# About Me _____________________________________
-- 🔭 I am currently an Intern at Venturus Technology Institute<br>
-- 💬 Ask me about anything, I am happy to help;
-- 😄 Pronouns: He|Him<br>
-- ⚡ Fun fact: Like Philosophy, Bodybuilding and I have a degree in Production Engineering 
-# Stacks _____________________________________
-- 😄 Pronouns: He|Him<br>
+# About Me
 - 🔭 I am currently an Intern at Venturus Technology Institute
 - ⚡ Fun fact: I read a lot, Like Bodybuilding and I have a degree in Production Engineering
+- 😄 Pronouns: He|Him<br>
   <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
 - 🤔 I’m looking for help Android;
 - 💬 Ask me about anything, I am happy to help;
 
+# Stacks 
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -31,7 +27,7 @@ Here are some ideas to get you started:
 
 <br>
 
-# Some Statistics _____________________________________
+# Some Statistics 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexeiraThiago)](https://github.com/TexeiraThiago/github-readme-stats)
 #### 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TexeiraThiago&show_icons=true&theme=dracula)
