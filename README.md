@@ -1,9 +1,5 @@
-## Hi there I'm Thiago Teixeira 👋
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/texeirathiago)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagopereirateixeira/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thiagopcteixeira/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiago.rtf@gmail.com)
-[![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
+## Hi there I'm Thiago Teixeira 👋 
+<h3 align="center">A rookie android mobile Developer</h3>
 
 <div align="center">
 <img alt="MyGif" align="center" height="100%"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
@@ -15,41 +11,57 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-- 🔭 I am currently an Intern at Venturus Technology Institute
-  <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
-- ⚡ Fun fact: I read a lot, Like Bodybuilding and I have a degree in Production Engineering
-- 😄 Pronouns: He|Him<br>
-- 🤔 I’m looking for help Android;
-- 💬 Ask me about anything, I am happy to help;
+- 🔭 I’m currently an Intern at [Venturus Technology Institute](https://www.venturus.org.br/)
 
-# Stacks 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+- 🌱 I’m currently learning **Kotlin, Java and Android**
 
+- 🤝 I’m looking for help with **Android**
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **thiago.rtf@gmail.com**
+
+- ⚡ Fun fact **I like to workout and philosophy**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thiagopereirateixeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagopereirateixeira" height="30" width="40" /></a>
+<a href="https://fb.com/thiagouff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiagouff" height="30" width="40" /></a>
+<a href="https://instagram.com/thiagopcteixeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiagopcteixeira" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thiagot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thiagot" height="30" width="40" /></a>
+</p>
+
+
+ <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 ---
-# Dev Stuffs 
+# Dev Stuffs
 <details>
+
 <summary><b> Github Stats </b> </summary>
-<div align="center">
-<img alt="GitHub stats" align="left"  height="70%" src="https://github-readme-stats.vercel.app/api?username=TexeiraThiago&amp;show_icons=true&amp;theme=dracula"/>
-<img alt="Top Langs" height="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexeiraThiago&amp;theme=dracula"/>
-</div> 
+
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=texeirathiago&theme=dracula&show_icons=true&border_radius)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=texeirathiago&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 <details>
 <summary><b> Github Streaks</b></summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TexeiraThiago&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=texeirathiago&theme=dracula)](https://git.io/streak-stats)
 
 </details>
 <details>
 <summary><b>Trophies</b></summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago&rank=-C,-B&row=2&column=3&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago&theme=dracula&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+
 <br>
 <div align="center">
 
@@ -69,3 +81,4 @@ Markdown   6 mins          █████████████████�
 
 <!--END_SECTION:waka-->
 
+[![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
