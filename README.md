@@ -26,20 +26,29 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
+
+
+# Dev Stuffs 
+<details>
+<summary><b> Github Stats </b> </summary>
+<div align="center">
+<img alt="GitHub stats" align="left"  height="70%" src="https://github-readme-stats.vercel.app/api?username=TexeiraThiago&amp;show_icons=true&amp;theme=dracula"/>
+<img alt="Top Langs" height="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexeiraThiago&amp;theme=dracula"/>
+</div> 
+</details>
+
+<details>
+<summary><b> Github Streaks</b></summary>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TexeiraThiago&theme=dracula)](https://git.io/streak-stats)
+</details>
+<details>
+<summary><b>Trophies</b></summary>
+[![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 <br>
 
-# Some Statistics 
-<div align="center">
-<img alt="GitHub stats" align="left"  height="50%" src="https://github-readme-stats.vercel.app/api?username=TexeiraThiago&amp;show_icons=true&amp;theme=dracula"/>
-<img alt="Top Langs" height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexeiraThiago&amp;theme=dracula"/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhkc064ppb43sxpxvoifg31pv&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TexeiraThiago&theme=dracula)](https://git.io/streak-stats)
-</div>
-
- 
-####
 
 <!--END_SECTION:waka-->
 
