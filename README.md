@@ -76,9 +76,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
- <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
-
 # Dev Metrics
 
 <!--START_SECTION:waka-->
