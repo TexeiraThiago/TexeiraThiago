@@ -6,7 +6,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiago.rtf@gmail.com)
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
 
+<div align="center">
 <img alt="MyGif" align="center" height="100%"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+</div>
+
 <!--
 **TexeiraThiago/TexeiraThiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -27,7 +30,6 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
-
 # Dev Stuffs 
 <details>
 <summary><b> Github Stats </b> </summary>
@@ -39,16 +41,19 @@ Here are some ideas to get you started:
 
 <details>
 <summary><b> Github Streaks</b></summary>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TexeiraThiago&theme=dracula)](https://git.io/streak-stats)
+
 </details>
 <details>
 <summary><b>Trophies</b></summary>
-[![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago&rank=-C,-B&row=2&column=3&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 </details>
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhkc064ppb43sxpxvoifg31pv&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 
 <!--END_SECTION:waka-->
 
