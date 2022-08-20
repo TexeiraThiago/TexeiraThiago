@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=texeirathiago&theme=dracula)](https://git.io/streak-stats)
 
 </details>
+
 <details>
 <summary><b>Trophies</b></summary>
 
