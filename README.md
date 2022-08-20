@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 ## Hi there I'm Thiago Teixeira 👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/texeirathiago)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagopereirateixeira/)
@@ -13,23 +14,32 @@ Here are some ideas to get you started:
 
 # About Me
 - 🔭 I am currently an Intern at Venturus Technology Institute
+  <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
 - ⚡ Fun fact: I read a lot, Like Bodybuilding and I have a degree in Production Engineering
 - 😄 Pronouns: He|Him<br>
-  <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
 - 🤔 I’m looking for help Android;
 - 💬 Ask me about anything, I am happy to help;
 
 # Stacks 
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 <br>
 
 # Some Statistics 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexeiraThiago)](https://github.com/TexeiraThiago/github-readme-stats)
-#### 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TexeiraThiago&show_icons=true&theme=dracula)
+<div align="center">
+<img alt="GitHub stats" align="left"  height="50%" src="https://github-readme-stats.vercel.app/api?username=TexeiraThiago&amp;show_icons=true&amp;theme=dracula"/>
+<img alt="Top Langs" height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexeiraThiago&amp;theme=dracula"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TexeiraThiago&theme=dracula)](https://git.io/streak-stats)
+</div>
+
+ 
+####
+
+<!--END_SECTION:waka-->
 
