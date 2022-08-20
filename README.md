@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/thiagot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thiagot" height="30" width="40" /></a>
 </p>
 
+---
 
- <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,20 +70,17 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 
----
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhkc064ppb43sxpxvoifg31pv&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
 ---
+
+ <img align="right" height="300" src="https://octodex.github.com/images/Fintechtocat.png?raw=true">
+
 # Dev Metrics
 
 <!--START_SECTION:waka-->
-
-```text
-Markdown   6 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
