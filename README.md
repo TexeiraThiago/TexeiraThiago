@@ -67,7 +67,11 @@ Here are some ideas to get you started:
 
 </details>
 
-<br>
+---
+
+
+# My Tracks
+
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhkc064ppb43sxpxvoifg31pv&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
