@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 ## Hi there I'm Thiago Teixeira 👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/texeirathiago)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagopereirateixeira/)
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-
+---
 # Dev Stuffs 
 <details>
 <summary><b> Github Stats </b> </summary>
@@ -52,8 +51,16 @@ Here are some ideas to get you started:
 
 </details>
 <br>
+<div align="center">
 
+---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bhkc064ppb43sxpxvoifg31pv&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+</div>
+
+---
+# Dev Metrics
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
