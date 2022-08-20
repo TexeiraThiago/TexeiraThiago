@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <summary><b>Trophies</b></summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=texeirathiago&theme=dracula&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+
 </details>
 
 <br>
