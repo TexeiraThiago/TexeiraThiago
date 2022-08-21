@@ -1,4 +1,9 @@
-## Hi there I'm Thiago Teixeira 👋 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi+there!+My+name+is+Thiago+Teixeira+)](https://git.io/typing-svg)
+
+</div>
+
 <h3 align="center">A rookie android mobile Developer</h3>
 
 <div align="center">
@@ -10,7 +15,7 @@
 Here are some ideas to get you started:
 -->
 
-# About Me
+# About Me 
 - 🔭 I’m currently an Intern at [Venturus Technology Institute](https://www.venturus.org.br/)
 
 - 🌱 I’m currently learning **Kotlin, Java and Android**
@@ -19,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **thiago.rtf@gmail.com**
+- 📫 How to reach me [**thiago.rtf@gmail.com**](mailto:thiago.rtf@gmail.com)
 
 - ⚡ Fun fact **I like to workout and philosophy**
 
@@ -82,3 +87,4 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" align="right"></a>
