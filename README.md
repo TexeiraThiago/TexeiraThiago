@@ -86,19 +86,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 68 Contributions in the Year 2022
+> 🏆 71 Contributions in the Year 2022
  > 
 > 📦 10.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -131,18 +131,18 @@ Sunday       22 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.28% 
-Markdown                 5 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.49% 
-YAML                     3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   22.18% 
-XML                      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
-GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+Kotlin                   3 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.86% 
+Markdown                 1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93% 
+YAML                     1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72% 
+XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-IntelliJ                 11 hrs 44 mins      ████████████████░░░░░░░░░   66.79% 
-Android Studio           5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.21%
+IntelliJ                 4 hrs 37 mins       ███████████████░░░░░░░░░░   63.26% 
+Android Studio           2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.74%
 
 💻 Operating System: 
-Linux                    17 hrs 34 mins      █████████████████████████   100.0%
+Linux                    7 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +159,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2022 01:26:15 UTC
+ Last Updated on 29/08/2022 01:29:12 UTC
 <!--END_SECTION:waka-->
 
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
