@@ -131,13 +131,13 @@ Sunday       23 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -154,7 +154,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2022 01:48:40 UTC
+ Last Updated on 01/09/2022 01:17:48 UTC
 <!--END_SECTION:waka-->
 
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
