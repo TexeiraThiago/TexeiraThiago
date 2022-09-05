@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 # Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
 
@@ -102,45 +102,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-🌆 Daytime    34 commits     █████████░░░░░░░░░░░░░░░░   36.96% 
-🌃 Evening    35 commits     █████████░░░░░░░░░░░░░░░░   38.04% 
-🌙 Night      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
-Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
-Thursday     23 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Friday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Saturday     16 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Sunday       23 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -154,7 +115,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 01:20:33 UTC
+ Last Updated on 05/09/2022 01:30:46 UTC
 <!--END_SECTION:waka-->
 
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
