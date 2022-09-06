@@ -84,38 +84,77 @@ Here are some ideas to get you started:
 # Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 74 Contributions in the Year 2022
+> 🏆 82 Contributions in the Year 2022
  > 
 > 📦 10.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+🌆 Daytime    37 commits     █████████░░░░░░░░░░░░░░░░   38.14% 
+🌃 Evening    37 commits     █████████░░░░░░░░░░░░░░░░   38.14% 
+🌙 Night      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.31%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
+Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
+Thursday     23 commits     ██████░░░░░░░░░░░░░░░░░░░   23.71% 
+Friday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+Saturday     17 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
+Sunday       26 commits     ██████░░░░░░░░░░░░░░░░░░░   26.8%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
-C#                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Kotlin                   5 repos             ██████████░░░░░░░░░░░░░░░   41.67% 
+C#                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
 
 
- Last Updated on 05/09/2022 01:30:46 UTC
+ Last Updated on 06/09/2022 01:43:23 UTC
 <!--END_SECTION:waka-->
 
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
