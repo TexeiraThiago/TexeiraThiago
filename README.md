@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" align="right"></a>
-- 🔭 I’m currently an Intern at [Venturus Technology Institute](https://www.venturus.org.br/)
+- 🔭 I’m a Jr Developer at [Venturus Technology Institute](https://www.venturus.org.br/)
 
 - 🌱 I’m currently learning **Kotlin, Java and Android**
 
