@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">A rookie android mobile Developer</h3>
+<h3 align="center">Android Developer</h3>
 
 <div align="center">
 <img alt="MyGif" align="center" height="100%"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # About Me <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" align="right"></a>
-- 🔭 I’m a Jr Developer
+- 🔭 I’m a Mid Level Android Developer
   
 - 🌱 I’m currently learning **Kotlin, Java and Android**
-
-- 🤝 I’m looking for help with **Android**
 
 - 💬 Ask me about **anything**
 
@@ -71,72 +69,7 @@ Here are some ideas to get you started:
 
 </details>
 
-# Dev Metrics
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2040%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164.0%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 86.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-🌆 Daytime                38 commits          █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌃 Evening                44 commits          ██████████░░░░░░░░░░░░░░░   39.64 % 
-🌙 Night                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Thursday                 25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Saturday                 22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Sunday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-C#                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-PureBasic                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-
- Last Updated on 04/03/2024 00:50:18 UTC
-<!--END_SECTION:waka-->
-
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
-
 
 ### This project need a **star** ⭐ from you ♥.
 
