@@ -12,7 +12,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: thiago/waka-readme@main # this action name
+      - uses: thiago/thiago@main # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ## meta
