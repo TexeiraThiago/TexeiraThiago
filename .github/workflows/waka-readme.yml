@@ -17,7 +17,8 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "true"
-          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_COMMIT: "true"
           SYMBOL_VERSION: 2
           
