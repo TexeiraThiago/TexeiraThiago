@@ -15,16 +15,11 @@ jobs:
       - uses: anmol098/waka-readme-stats@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ## meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: https://github.com/TexeiraThiago # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: Java # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 5 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE: "true"
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_COMMIT: "true"
+          SYMBOL_VERSION: 2
+          
