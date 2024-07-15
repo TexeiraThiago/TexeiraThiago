@@ -71,5 +71,8 @@ Here are some ideas to get you started:
 
 [![HitCount](https://hits.dwyl.com/texeirathiago/texeirathiago.svg?style=flat)](http://hits.dwyl.com/texeirathiago/texeirathiago)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### This project need a **star** ⭐ from you ♥.
 
