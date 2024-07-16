@@ -21,4 +21,8 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_COMMIT: "true"
           SYMBOL_VERSION: 2
+          SHOW_SHORT_INFO: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_EDITORS: "false"
+          SHOW_LOC_CHART: "false"
           
