@@ -49,7 +49,8 @@ Sunday                   2 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     18 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.54 % 
+XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.46 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,7 +66,7 @@ Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 03/12/2024 18:43:17 UTC
+ Last Updated on 04/12/2024 18:45:21 UTC
 <!--END_SECTION:waka-->
 
 ### This project need a **star** ⭐ from you ♥.
