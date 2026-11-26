@@ -8,8 +8,8 @@ import SoftwareDeveloper from 'Thiago.Teixeira';
 
 class Bio extends SoftwareDeveloper {
   name       = "✍️ Thiago Teixeira";
-  age        = "👱‍ 36 years "; 
-  location   = "🏠 Canaã dos Carajás, PA - Brazil";                                                                          
+  age        = "👱‍ 38 years "; 
+  location   = "🏠 Rio de Janeiro, RJ - Brazil";                                                                          
   occupation = "👨‍🏫 Software Developer";
   focus      = "🎯 Java, Angular, AWS";                                                                     
 }
